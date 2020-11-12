@@ -2,7 +2,7 @@
 9 - 12 November 2020 
 
 Perintah:
-"Buatlah program input sederhana mengguanakan operator aritmatika
+"Buatlah program input sederhana mengguanakan operator aritmatika."
 - Temanya bebas 
 - Variable input minimal 7
 - Tipe datanya yang digunakan minimal 3 
