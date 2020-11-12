@@ -8,20 +8,21 @@ Perintah:
 - Tipe datanya yang digunakan minimal 3 
 - Variable inputan masukkan ke dalam list, outputkan isi dalam list tersebut(bonus nilai).
 
-Nama Aplikasi: Kalkulator Aljabar
-Versi: 1.0
-Pengembang: Fazri Gading
-Line Code: 320
-Jumlah Variabel Input: 48
-Tipe Data: string, integer, float, boolean
-Menu:
-1. Persegi
-2. Persegi Panjang
-3. Segitiga
-4. Lingkaran
-5. Jajaran Genjang
-6. Belah Ketupat
-7. Layang-Layang
-8. Trapesium
-9. Tentang
-0. Keluar
+Deskripsi Program:
+- Nama Aplikasi: Kalkulator Aljabar
+- Versi: 1.0
+- Pengembang: Fazri Gading
+- Line Code: 320
+- Jumlah Variabel Input: 48
+- Tipe Data: string, integer, float, boolean
+- Menu:
+  1. Persegi
+  2. Persegi Panjang
+  3. Segitiga
+  4. Lingkaran
+  5. Jajaran Genjang
+  6. Belah Ketupat
+  7. Layang-Layang
+  8. Trapesium
+  9. Tentang
+  0. Keluar
