@@ -9,7 +9,7 @@ Perintah:
 - Variable inputan masukkan ke dalam list, outputkan isi dalam list tersebut(bonus nilai).
 
 Deskripsi Program:
-- Nama Aplikasi: Kalkulator Aljabar
+- Nama Aplikasi: Kalkulator Bangun Datar
 - Versi: 1.0
 - Pengembang: Fazri Gading
 - Line Code: 320
