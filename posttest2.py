@@ -313,7 +313,7 @@ while show_menu1 == True:
         # Pilihan 0 - Keluar
         elif choice1 == '0':
             bye()
-        # Jika input tidak sesuai
+        # Jika input tidak sesuai dengan yang diinginkan.
         else:
             print(salah)
             time.sleep(0.75)
