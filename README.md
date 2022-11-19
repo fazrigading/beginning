@@ -1,3 +1,35 @@
+# Proyek Akhir: Quadratic and Circle Equation Finder (QCEF) Program
+28 November 2020
+## Introduction
+QCEF atau Quadratic and Circle Equation Finder adalah program untuk membantu manusia dalam melakukan perhitungan atau kalkulasi terhadap bentuk persamaan kuadrat, persamaan lingkaran, dan rumus lain yang berkaitan dengan persamaan tersebut.
+
+## Goals
+- Membantu pelajar dan pengajar dalam mengerjakan soal Persamaan Kuadrat dan Persamaan Lingkaran
+- Menghitung nilai Diskriminan
+- Menentukan nilai $x_1$ dan $x_2$ pada Persamaan Kuadrat
+- Mencari nilai ruas atau titik pusat (dengan variabel a, b, dan c)
+- Mencari nilai ruas dengan titik pusat (0, 0)
+- Mencari letak titik x dan y pada pusat (0, 0) dan pusat (a, b)
+- Membuat persamaan dengan titik pusat (a, b) dan r
+
+## Features
+### Persamaan Kuadrat 
+Terdapat 5 fitur, yaitu:
+- Menemukan akar dari nilai $a, b,$ dan $c$ ( $x_1$ dan $x_2$ )
+- Diskriminan: $D = 4ac$
+- Jumlah Akar-Akar
+- Hasil Kali Akar-Akar
+- Selisih Akar-Akar
+
+### Persamaan Lingkaran
+Terdapat 6 fitur, yaitu:
+- Nilai Jari-Jari
+- Nilai Titik Pusat
+- Letak (x, y) pada Pusat 0
+- Letak (x, y) pada Pusat (a,b)
+- Persamaan r pada Pusat 0
+- Persamaan r pada Pusat (a,b)
+
 # Post Test 3.1 - Toko Kue
 17 - 20 November 2020
 
@@ -5,7 +37,7 @@ Perintah:
 "Buat program seperti soal berikut."
 Sule memiliki toko kue dimana 1 kue keju seharga 6000 dan 1 kue coklat seharga 3500.
 Setiap hari Sule hanya memproduksi 25 kue keju dan 35 kue coklat. 
-Untuk meramaikan tokonya, Sule memberikan sebuah promo yaitu:
+Meramaikan tokonya, Sule memberikan sebuah promo yaitu:
 - Jika membeli 5 kue coklat hingga 20 mendapat diskon 7%.
 - Jika membeli 21 kue coklat hingga 35 mendapat diskon 12%.
 - Jika membeli 4 kue keju hingga 15 mendapat diskon 10%
